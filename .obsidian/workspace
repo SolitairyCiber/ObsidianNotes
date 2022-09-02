@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "M365/SMTP.md",
+            "file": "M365/Admin Rights.md",
             "mode": "preview",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M365/SMTP.md",
+                "file": "M365/Admin Rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -88,15 +88,15 @@
   },
   "active": "b9e83ff4baff5299",
   "lastOpenFiles": [
-    "M365/Quarentine and Restricted Users.md",
-    "M365/Client Side Rules.md",
-    "M365/SMTP.md",
-    "M365/Password Expiring.md",
-    "M365/Admin Rights.md",
-    "M365/Forwarding.md",
-    "M365/Mailbox Sharing.md",
-    "M365/Calendar.md",
-    "M365/Connection.md",
-    "M365/List Users.md"
+    "Windows/WinRM Setup.md",
+    "Windows/Powershell version and Update.md",
+    "Windows/Powershell Download.md",
+    "Windows/Get-Process.md",
+    "Windows/General Powershell.md",
+    "Windows/Forensics Registry Keys.md",
+    "Windows/Listening Ports/Powershell List.md",
+    "Windows/Listening Ports/netstat.md",
+    "vmware/Untitled.md",
+    "vmware/Untitled 1.md"
   ]
 }
