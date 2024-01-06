@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea8d6c2347b8c2a6",
+            "id": "60dd6e52b668deae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Hacking/Obfuscated Powershell to Bypass Defender.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Windows/Hacking/Obfuscated Powershell to Bypass Defender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +111,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ea8d6c2347b8c2a6",
+  "active": "00c957cfb72525b4",
   "lastOpenFiles": [
+    "Linux/Snort Install Kali.md",
+    "Windows/Hacking/Obfuscated Powershell to Bypass Defender.md",
     "Windows/Forensics/Memory Analysis/FTK Imager.md",
     "Linux/Logs/Log Chopping Command Line.md",
     "Linux/Password Cracking/Hydra.md",
@@ -141,8 +148,6 @@
     "M365/Admin Rights.md",
     "M365/Forwarding.md",
     "M365/Connection.md",
-    "M365/Client Side Rules.md",
-    "M365/Calendar.md",
-    "Windows/Powershell/General Powershell.md"
+    "M365/Client Side Rules.md"
   ]
 }
