@@ -12,11 +12,14 @@ Next run the Malfind.
 This will look for process injection and other malware behavior.  
 
 The command line tool has more options so to find connected IP ports.
+```Command-Line
 vol.exe -f filename.mdp windows.netstat
+```
 
 If there are suspicious IP addresses you can find out more at:
-whatsmyipaddress.com
+https://whatsmyipaddress.com
 
 A more automated analysis upload the dump file to:
-analyze.intezer.com
+https://analyze.intezer.com
+
 There is also a stand alone tool called Endpoint you can download and run with intezer that will allow you to analize from the infected machine.  

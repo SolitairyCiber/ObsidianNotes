@@ -1,9 +1,9 @@
-Restricted users are located.
+**Restricted users are located.
 
->https://security.microsoft.com/restrictedusers
+https://security.microsoft.com/restrictedusers
 
-Quarentine users are located.
+**Quarantined users are located.
 
->https://security.microsoft.com/quarantine
+https://security.microsoft.com/quarantine
 
 

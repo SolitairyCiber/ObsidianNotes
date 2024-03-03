@@ -1,32 +1,47 @@
-Also after a hack looking at client side rules are important.  
+**Also after a hack looking at client side rules are important.  
 
-This gets client side rules and their names.
+**This gets client side rules and their names.
 
->Get-InboxRule –Mailbox <mailbox_user> | Select Name, Description | FL
+```PowerShell
+Get-InboxRule –Mailbox <mailbox_user> | Select Name, Description | FL
+```
 
-This one gives more detailed info.
+**This one gives more detailed info.
 
->Get-InboxRule -Mailbox Joe@Contoso.com
+```PowerShell
+Get-InboxRule -Mailbox Joe@Contoso.com
+```
 
-If you want to export the rules to a csv for review use this. 
+**If you want to export the rules to a csv for review use this. 
 
->Get-Mailbox | select UserPrincipalName,ForwardingSmtpAddress,DeliverToMailboxAndForward | Export-csv D:\Office365Forwards.csv -NoTypeInformation
+```Powershell 
+Get-Mailbox | select UserPrincipalName,ForwardingSmtpAddress,DeliverToMailboxAndForward | Export-csv D:\Office365Forwards.csv -NoTypeInformation
+```
 
-Get forwarding of all forwarding rules not just to outside enties.
 
->$mailboxes=(get-mailbox).UserPrincipalName;foreach ($mailbox in $mailboxes) {get-inboxrule -Mailbox $mailbox | Select Identity, Name, Description, ForwardTo | FL} 
+**Get forwarding of all forwarding rules not just to outside enties.
 
-Get mailbox object ID
+```PowerShell
+$mailboxes=(get-mailbox).UserPrincipalName;foreach ($mailbox in $mailboxes) {get-inboxrule -Mailbox $mailbox | Select Identity, Name, Description, ForwardTo | FL} 
+```
 
->get-mailbox <username> |select ExternalDirectoryObjectId
+***Get mailbox object ID
 
-Stop forwarding rule.
+```PowerShell
+get-mailbox <username> |select ExternalDirectoryObjectId
+```
 
->Remove-InboxRule -Mailbox 84580631-c4d9-415d-8dd5-c78be65e433f -Identity "Send me a copy" 
+**Stop forwarding rule.
 
-I ran into a case where they used the same name for the rule and the above would not remove it.  In that case to remove all rules.
+```PowerShell
+Remove-InboxRule -Mailbox 84580631-c4d9-415d-8dd5-c78be65e433f -Identity "Send me a copy" 
+```
 
->  Get-InboxRule -Mailbox "cameron@ohdbc.com" | Remove-InboxRule
+**I ran into a case where they used the same name for the rule and the above would not remove it.  In that case to remove all rules.
+
+```PowerShell
+Get-InboxRule -Mailbox "cameron@ohdbc.com" | Remove-InboxRule
+```
 
 
 

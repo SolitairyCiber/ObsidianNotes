@@ -1,2 +1,4 @@
-> netstat -an
+```Shell
+netstat -an
+```
 

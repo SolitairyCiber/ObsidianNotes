@@ -1,11 +1,16 @@
-password expiring
-You might not want the admin password to expire
 
-View the status of a user.
+**You might not want the admin password to expire
 
->Get-MsolUser -UserPrincipalName <fullemailaddress@yourdomain.com> | Select PasswordNeverExpires
+**View the status of a user.
 
-Change the status of a user expiring status.
+```PowerShell
+Get-MsolUser -UserPrincipalName <fullemailaddress@yourdomain.com> | Select PasswordNeverExpires
+```
 
->Connect-MsolService
+**Change the status of a user expiring status.
+
+```PowerShell
+Connect-MsolService
 Set-MsolUser -UserPrincipalName <fullemailaddress@yourdomain.com> -PasswordNeverExpires $true
+```
+

@@ -69,7 +69,7 @@ In the example above, we used column #2 since column #1 will provide the content
 
 Linux Pipes  
 
-In the previous section, we introduced some Linux commands that will be useful for investigation. To utilise all these commands and produce an output that can provide meaningful information, we can use Linux Pipes.
+In the previous section, we introduced some Linux commands that will be useful for investigation. To utilize all these commands and produce an output that can provide meaningful information, we can use Linux Pipes.
 
 In Linux or Unix-like operating systems, a **pipe** (or the "|" character) is a way to connect two or more commands to make them work together seamlessly. It allows you to take the **output** of one command and use it as the input for another command. We'll introduce more commands by going through some use cases.
 

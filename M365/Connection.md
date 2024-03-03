@@ -1,2 +1,4 @@
-> Connect-EXOPSSession -UserPrincipalName chris@contoso.com
+```PowerShell
+Connect-EXOPSSession -UserPrincipalName chris@contoso.com
+```
 

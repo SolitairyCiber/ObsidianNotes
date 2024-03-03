@@ -1,9 +1,13 @@
-After a hack you will want to check what email is being forwarded.  
+**After a hack you will want to check what email is being forwarded.  
 View forwarding email.
 
->Get-Mailbox | select UserPrincipalName,ForwardingSmtpAddress,DeliverToMailboxAndForward
+```PowerShell
+Get-Mailbox | select UserPrincipalName,ForwardingSmtpAddress,DeliverToMailboxAndForward
+```
 
-Stop forwarding email.
+**Stop forwarding email.
 
->Set-Mailbox paulie -ForwardingAddress $NULL -ForwardingSmtpAddress $NULL
+```PowerShell
+Set-Mailbox paulie -ForwardingAddress $NULL -ForwardingSmtpAddress $NULL
+```
 

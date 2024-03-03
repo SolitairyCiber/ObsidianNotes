@@ -1,8 +1,11 @@
-Install powershell 7 if you have not done so.  
+**Install PowerShell 7 if you have not done so.  
 
-New login uses powershell 7
+New login uses PowerShell 7
+```PowerShell
 pwsh
 Import-Module ExchangeOnlineManagement
-Connect-ExchangeOnline 
-a browser windows will pop up to login.
-now you are on exchange.  
+Connect-ExchangeOnline
+```
+
+**A browser windows will pop up to login.
+Now you are on exchange.  

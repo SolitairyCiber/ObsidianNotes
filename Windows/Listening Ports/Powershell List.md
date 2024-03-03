@@ -1,8 +1,12 @@
->Get-NetTCPConnection -state listen | Select-Object -Property *
+```Powershell
+Get-NetTCPConnection -state listen | Select-Object -Property *
+```
 
 or 
 
->Get-NetTCPConnection -state established | Select-Object -Property *
+```PowerShell
+Get-NetTCPConnection -state established | Select-Object -Property *
+```
 
 
 

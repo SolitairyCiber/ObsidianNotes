@@ -2,9 +2,12 @@ Using a linux app called Sublime Text will make the email headers easier to read
 
 However the linux app called emlAnalyzer will allow you to not only view the headers easier but also can extract attachments without risk.
 
->emlAnalyzer -i Urgent\:.eml --header --html -u --text --extract-all
+```session-shell 
+emlAnalyzer -i Urgent\:.eml --header --html -u --text --extract-all
+```
 
-the above command will extract header information and text from the Urgent.eml file as well as attachments.
+
+The above command will extract header information and text from the Urgent.eml file as well as attachments.
 
 https://emailrep.io/
 
