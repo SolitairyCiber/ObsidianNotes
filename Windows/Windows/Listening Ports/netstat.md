@@ -1,0 +1,4 @@
+```Shell
+netstat -an
+```
+
