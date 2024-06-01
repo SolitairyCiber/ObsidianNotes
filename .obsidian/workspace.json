@@ -11,9 +11,11 @@
             "id": "60dd6e52b668deae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Windows/Windows PowerShell Logging Cheat Sheet.pdf"
+                "file": "Windows/OS Fixes/Non Booting System Possible Fixes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
+                "file": "Windows/OS Fixes/Non Booting System Possible Fixes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +113,9 @@
   },
   "active": "60dd6e52b668deae",
   "lastOpenFiles": [
-    "Windows/Auditing Event Logs.md",
     "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
+    "Windows/OS Fixes/Non Booting System Possible Fixes.md",
+    "Windows/Auditing Event Logs.md",
     "Windows/Untitled.md",
     "Hacking/40 Tools.md",
     "Hacking/Search Engines for Pentesters.jpg",
@@ -153,7 +156,6 @@
     "Linux/Enumeration/nmap_cheet_sheet_v7.pdf",
     "Windows/Forensics/Forensics Registry Keys.md",
     "Windows/Listening Ports/Powershell List.md",
-    "Windows/Listening Ports/netstat.md",
-    "Windows/Forensics/Memory Analysis/Memory Forensics.md"
+    "Windows/Listening Ports/netstat.md"
   ]
 }
