@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Hacking/444226793_1191028411914692_5247605064485761874_n.jpg"
+                "file": "Linux/Linux Commands for Hardware Info.jpg"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/444226793_1191028411914692_5247605064485761874_n.jpg",
+                "file": "Linux/Linux Commands for Hardware Info.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +111,10 @@
   },
   "active": "00c957cfb72525b4",
   "lastOpenFiles": [
+    "Hacking/Tools for Bug Hunting.jpg",
+    "Linux/Linux Commands for Hardware Info.jpg",
+    "Hacking/Websites to Learn Hacking.jpg",
     "Linux/Linux lsof Command Examples.jpg",
-    "Hacking/444226793_1191028411914692_5247605064485761874_n.jpg",
     "Hacking/Search Engines for Pentesters.jpg",
     "Linux/Linux File System.jpg",
     "Hacking/Cyber Security Ecosystem.jpg",
