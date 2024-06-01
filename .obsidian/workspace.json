@@ -11,11 +11,9 @@
             "id": "60dd6e52b668deae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Hacking/Enumeration/Auditing Event Logs.md",
-                "mode": "source",
-                "source": false
+                "file": "Windows/Windows PowerShell Logging Cheat Sheet.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Enumeration/Auditing Event Logs.md",
+                "file": "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +111,10 @@
   },
   "active": "60dd6e52b668deae",
   "lastOpenFiles": [
+    "Windows/Auditing Event Logs.md",
+    "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
+    "Windows/Untitled.md",
     "Hacking/40 Tools.md",
-    "Hacking/Enumeration/Auditing Event Logs.md",
     "Hacking/Search Engines for Pentesters.jpg",
     "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
     "Linux/Linux Commands for Hardware Info.jpg",
@@ -152,11 +152,8 @@
     "Linux/Password Cracking",
     "Linux/Enumeration/nmap_cheet_sheet_v7.pdf",
     "Windows/Forensics/Forensics Registry Keys.md",
-    "Linux/Enumeration",
     "Windows/Listening Ports/Powershell List.md",
     "Windows/Listening Ports/netstat.md",
-    "Windows/Forensics/Memory Analysis/Memory Forensics.md",
-    "M365/Login using Powershell 7.md",
-    "M365/Admin Rights.md"
+    "Windows/Forensics/Memory Analysis/Memory Forensics.md"
   ]
 }
