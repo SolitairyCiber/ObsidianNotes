@@ -11,9 +11,11 @@
             "id": "60dd6e52b668deae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Hacking/rtfm-red-team-field-manual.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/rtfm-red-team-field-manual.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +113,9 @@
   },
   "active": "60dd6e52b668deae",
   "lastOpenFiles": [
-    "Hacking/Search Engines for Pentesters.jpg",
+    "Notes for Obsidian.md",
     "Hacking/rtfm-red-team-field-manual.pdf",
+    "Hacking/Search Engines for Pentesters.jpg",
     "Hacking/RID Hijacking.md",
     "Hacking/Obfuscated Powershell to Bypass Defender.md",
     "Hacking/40 Tools.md",
