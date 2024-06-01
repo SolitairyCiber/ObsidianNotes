@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Hacking/Cyber Security Ecosystem.jpg"
+                "file": "Linux/Linux File System.jpg"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Cyber Security Ecosystem.jpg",
+                "file": "Linux/Linux File System.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +111,9 @@
   },
   "active": "60dd6e52b668deae",
   "lastOpenFiles": [
-    "Hacking/Cyber Security Ecosystem.md",
     "Hacking/Cyber Security Ecosystem.jpg",
+    "Linux/Linux File System.jpg",
+    "Hacking/Cyber Security Ecosystem.md",
     "444481673_10220508894152475_6703685915989967855_n 1.jpg",
     "Linux/Snort Install Kali.md",
     "Windows/Hacking/Obfuscated Powershell to Bypass Defender.md",
