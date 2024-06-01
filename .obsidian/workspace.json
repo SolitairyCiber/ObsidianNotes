@@ -11,9 +11,11 @@
             "id": "60dd6e52b668deae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Hacking/Search Engines for Pentesters.jpg"
+                "file": "Hacking/Enumeration/Auditing Event Logs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Search Engines for Pentesters.jpg",
+                "file": "Hacking/Enumeration/Auditing Event Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +113,10 @@
   },
   "active": "60dd6e52b668deae",
   "lastOpenFiles": [
-    "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
+    "Hacking/40 Tools.md",
+    "Hacking/Enumeration/Auditing Event Logs.md",
     "Hacking/Search Engines for Pentesters.jpg",
+    "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
     "Linux/Linux Commands for Hardware Info.jpg",
     "Hacking/Tools for Bug Hunting.jpg",
     "Hacking/Websites to Learn Hacking.jpg",
@@ -153,7 +157,6 @@
     "Windows/Listening Ports/netstat.md",
     "Windows/Forensics/Memory Analysis/Memory Forensics.md",
     "M365/Login using Powershell 7.md",
-    "M365/Admin Rights.md",
-    "M365/Forwarding.md"
+    "M365/Admin Rights.md"
   ]
 }
