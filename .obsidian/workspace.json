@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/OS Fixes/Non Booting System Possible Fixes.md",
-                "mode": "preview",
+                "file": "Hacking/RID Hijacking.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/OS Fixes/Non Booting System Possible Fixes.md",
+                "file": "Hacking/RID Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,21 +111,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00c957cfb72525b4",
+  "active": "60dd6e52b668deae",
   "lastOpenFiles": [
-    "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
+    "Hacking/Obfuscated Powershell to Bypass Defender.md",
+    "Hacking/40 Tools.md",
+    "Hacking/Cyber Security Ecosystem.jpg",
+    "Hacking/Websites to Learn Hacking.jpg",
+    "Hacking/Tools for Bug Hunting.jpg",
+    "Hacking/Snort Install Kali.md",
+    "Hacking/Search Engines for Pentesters.jpg",
+    "Hacking/RID Hijacking.md",
     "Windows/OS Fixes/Non Booting System Possible Fixes.md",
+    "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
     "Windows/Auditing Event Logs.md",
     "Windows/Untitled.md",
-    "Hacking/40 Tools.md",
-    "Hacking/Search Engines for Pentesters.jpg",
     "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
     "Linux/Linux Commands for Hardware Info.jpg",
-    "Hacking/Tools for Bug Hunting.jpg",
-    "Hacking/Websites to Learn Hacking.jpg",
     "Linux/Linux lsof Command Examples.jpg",
     "Linux/Linux File System.jpg",
-    "Hacking/Cyber Security Ecosystem.jpg",
     "Hacking/Cyber Security Ecosystem.md",
     "444481673_10220508894152475_6703685915989967855_n 1.jpg",
     "Linux/Snort Install Kali.md",
@@ -154,8 +157,6 @@
     "Linux/SSH/Reverse SSH.md",
     "Linux/Password Cracking",
     "Linux/Enumeration/nmap_cheet_sheet_v7.pdf",
-    "Windows/Forensics/Forensics Registry Keys.md",
-    "Windows/Listening Ports/Powershell List.md",
-    "Windows/Listening Ports/netstat.md"
+    "Windows/Forensics/Forensics Registry Keys.md"
   ]
 }
