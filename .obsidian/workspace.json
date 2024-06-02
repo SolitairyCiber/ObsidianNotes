@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/xRDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/xRDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "60dd6e52b668deae",
   "lastOpenFiles": [
+    "README.md",
     "Notes for Obsidian.md",
     "Hacking/rtfm-red-team-field-manual.pdf",
     "Hacking/Search Engines for Pentesters.jpg",
@@ -156,7 +157,6 @@
     "Linux/Enumeration/nmap examples.md",
     "Linux/SSH",
     "Linux/Enumeration/Nmap.md",
-    "Linux/SSH/Reverse SSH.md",
     "Linux/Password Cracking"
   ]
 }
