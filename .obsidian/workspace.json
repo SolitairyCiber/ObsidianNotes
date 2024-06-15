@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9372c7cd2d64d38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/VM for Malware Analyses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/xRDP.md",
+                "file": "Windows/VM for Malware Analyses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,12 +124,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "60dd6e52b668deae",
+  "active": "00c957cfb72525b4",
   "lastOpenFiles": [
+    "Linux/xRDP.md",
+    "Windows/VM for Malware Analyses.md",
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
-    "Untitled.md",
-    "Linux/xRDP.md",
     "README.md",
     "Notes for Obsidian.md",
     "Hacking/rtfm-red-team-field-manual.pdf",
