@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/xRDP.md",
+                "file": "Linux/Ubuntu Netplan Setup.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/xRDP.md",
+                "file": "Linux/Ubuntu Netplan Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +113,8 @@
   },
   "active": "bfc328aa4a68c463",
   "lastOpenFiles": [
-    "Linux/Ubuntu Netplan Setup.md",
     "Linux/xRDP.md",
+    "Linux/Ubuntu Netplan Setup.md",
     "vmware/Speed Issues.md",
     "vmware/Offline Bundle Update Version 7.md",
     "vmware/Misc. Command Line.md",
