@@ -27,9 +27,15 @@ ethernets:
             addresses:
                 - 10.10.10.2/24
             nameservers:
-                search: [mydomain, otherdomain]
                 addresses: [10.10.10.1, 1.1.1.1]
             routes:
                 - to: default
                   via: 10.10.10.1
+```
+
+Note that the indents have to be exactly the same.  
+
+Now apply.
+```
+netplan apply
 ```
