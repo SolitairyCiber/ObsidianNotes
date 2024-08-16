@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a23b2c51ab57a7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +134,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00c957cfb72525b4",
+  "active": "4a23b2c51ab57a7a",
   "lastOpenFiles": [
     "Windows/VM for Malware Analyses.md",
     "Linux/xRDP.md",
