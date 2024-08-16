@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfc328aa4a68c463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu Netplan Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/xRDP.md",
+                "file": "Ubuntu Netplan Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +158,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b1bf6f86ad956072",
+  "active": "bfc328aa4a68c463",
   "lastOpenFiles": [
+    "Linux/xRDP.md",
+    "Ubuntu Netplan Setup.md",
     "vmware/Speed Issues.md",
     "vmware/Offline Bundle Update Version 7.md",
     "vmware/Misc. Command Line.md",
@@ -157,7 +171,6 @@
     "vmware/Cut and Past in Remote Console.md",
     "vmware",
     "Windows/VM for Malware Analyses.md",
-    "Linux/xRDP.md",
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
     "README.md",
@@ -187,7 +200,6 @@
     "Linux/Password Cracking/Hydra.md",
     "Linux/Logs",
     "Linux/Password Cracking/Password List Creation/CeWL.md",
-    "Linux/Email Evaluation.md",
     "Linux/Password Cracking/Password List Creation",
     "Windows/Hacking",
     "Windows/Video Notes PSEXEC.EXE.pdf",
