@@ -8,65 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60dd6e52b668deae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/xRDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9372c7cd2d64d38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "M365/Connection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a23b2c51ab57a7a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "b1bf6f86ad956072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/xRDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfc328aa4a68c463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Ubuntu Netplan Setup.md",
+                "file": "Linux/xRDP.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Ubuntu Netplan Setup.md",
+                "file": "Linux/xRDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +111,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00c957cfb72525b4",
+  "active": "bfc328aa4a68c463",
   "lastOpenFiles": [
-    "Linux/xRDP.md",
     "Linux/Ubuntu Netplan Setup.md",
+    "Linux/xRDP.md",
     "vmware/Speed Issues.md",
     "vmware/Offline Bundle Update Version 7.md",
     "vmware/Misc. Command Line.md",
