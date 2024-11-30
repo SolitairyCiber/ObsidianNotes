@@ -16,10 +16,25 @@
                 "file": "Linux/Ubuntu Netplan Setup.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ubuntu Netplan Setup"
+            }
+          },
+          {
+            "id": "30c7727df8a7e0f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Ubuntu Netplan Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           }
         ]
@@ -111,7 +133,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bfc328aa4a68c463",
+  "active": "30c7727df8a7e0f5",
   "lastOpenFiles": [
     "Linux/xRDP.md",
     "Linux/Ubuntu Netplan Setup.md",
