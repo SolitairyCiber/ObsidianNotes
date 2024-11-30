@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e84b068407f73a1c",
+        "id": "737bc130d4e3ecb3",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc328aa4a68c463",
+            "id": "5b0e5afd1ca76776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Ubuntu Netplan Setup.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ubuntu Netplan Setup"
-            }
-          },
-          {
-            "id": "30c7727df8a7e0f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Linux/Network Boot PI Zero.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Network Boot PI Zero"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
