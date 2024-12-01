@@ -1,0 +1,1 @@
+Command line tool that gives metadata info on a file.  Can be used to see the actual info in a link file.  
