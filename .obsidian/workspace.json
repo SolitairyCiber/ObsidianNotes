@@ -25,14 +25,12 @@
             "id": "590a6f1d96236c28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Windows/exfitool.md",
-                "mode": "source",
-                "source": false
+                "file": "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "exfitool"
+              "icon": "lucide-file-text",
+              "title": "Hashcat 2024 - Bruteforcing 3.3"
             }
           }
         ],
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/exfitool.md",
+                "file": "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for exfitool"
+              "title": "Backlinks for Hashcat 2024 - Bruteforcing 3.3"
             }
           }
         ]
@@ -136,10 +134,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00c957cfb72525b4",
+  "active": "590a6f1d96236c28",
   "lastOpenFiles": [
     "Powershell/Bypass Restrictions in Script.md",
     "Windows/exfitool.md",
+    "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
     "Powershell",
     "Linux/Pi Based NAS.pdf",
     "Linux/Mounting at Boot fstab.pdf",
@@ -165,7 +164,6 @@
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
     "README.md",
     "Notes for Obsidian.md",
-    "Hacking/rtfm-red-team-field-manual.pdf",
     "Hacking/Search Engines for Pentesters.jpg",
     "Hacking/RID Hijacking.md",
     "Hacking/Obfuscated Powershell to Bypass Defender.md",
@@ -182,7 +180,6 @@
     "Linux/Linux lsof Command Examples.jpg",
     "Linux/Linux File System.jpg",
     "Hacking/Cyber Security Ecosystem.md",
-    "Linux/Snort Install Kali.md",
-    "Windows/Hacking/Obfuscated Powershell to Bypass Defender.md"
+    "Linux/Snort Install Kali.md"
   ]
 }
