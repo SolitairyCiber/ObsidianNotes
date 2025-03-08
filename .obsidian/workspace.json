@@ -11,10 +11,14 @@
             "id": "33fb5649c57f5b98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Google Dorks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Google Dorks"
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
+                "file": "Google Dorks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hashcat 2024 - Bruteforcing 3.3"
+              "title": "Backlinks for Google Dorks"
             }
           }
         ]
@@ -117,8 +121,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00c957cfb72525b4",
+  "active": "33fb5649c57f5b98",
   "lastOpenFiles": [
+    "GoogleCheatSheet.pdf",
+    "Notes for Obsidian.md",
+    "Google Dorks.md",
     "Powershell/Bypass Restrictions in Script.md",
     "Windows/exfitool.md",
     "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
@@ -146,7 +153,6 @@
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
     "README.md",
-    "Notes for Obsidian.md",
     "Hacking/Search Engines for Pentesters.jpg",
     "Hacking/RID Hijacking.md",
     "Hacking/Obfuscated Powershell to Bypass Defender.md",
@@ -162,7 +168,6 @@
     "Linux/Linux Commands for Hardware Info.jpg",
     "Linux/Linux lsof Command Examples.jpg",
     "Linux/Linux File System.jpg",
-    "Hacking/Cyber Security Ecosystem.md",
-    "Linux/Snort Install Kali.md"
+    "Hacking/Cyber Security Ecosystem.md"
   ]
 }
