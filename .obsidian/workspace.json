@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "737bc130d4e3ecb3",
+        "id": "a91699b8b7bea82a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b0e5afd1ca76776",
+            "id": "33fb5649c57f5b98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powershell/Bypass Restrictions in Script.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bypass Restrictions in Script"
-            }
-          },
-          {
-            "id": "590a6f1d96236c28",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Hashcat 2024 - Bruteforcing 3.3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +117,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "590a6f1d96236c28",
+  "active": "00c957cfb72525b4",
   "lastOpenFiles": [
     "Powershell/Bypass Restrictions in Script.md",
     "Windows/exfitool.md",
