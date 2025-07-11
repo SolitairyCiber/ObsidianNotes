@@ -12,3 +12,8 @@ RDP client:
 apt install remmina
 ```
 
+Keepass:
+```
+apt install keepass2
+```
+
