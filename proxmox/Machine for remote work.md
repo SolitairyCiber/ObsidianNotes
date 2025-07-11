@@ -41,5 +41,11 @@ dpkg -i powershell_7.5.2-1.deb_amd64.deb
 apt install nmap
 ```
 
+### Obsidian
+```
+wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/obsidian_1.8.10_amd64.deb
+dpkg -i obsidian_1.8.10_amd64.deb
+```
+
 
 
