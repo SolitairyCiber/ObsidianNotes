@@ -36,4 +36,10 @@ Install:
 dpkg -i powershell_7.5.2-1.deb_amd64.deb
 ```
 
+### nmap
+```
+apt install nmap
+```
+
+
 
