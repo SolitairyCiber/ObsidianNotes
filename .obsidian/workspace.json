@@ -20,8 +20,49 @@
               "icon": "lucide-file",
               "title": "Google Dorks"
             }
+          },
+          {
+            "id": "b7d99fdea0ddba06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "298d1011189b3611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proxmox/Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent"
+            }
+          },
+          {
+            "id": "5485bbb40ae2b26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proxmox/Machine for remote work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine for remote work"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Dorks.md",
+                "file": "proxmox/Machine for remote work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Dorks"
+              "title": "Backlinks for Machine for remote work"
             }
           }
         ]
@@ -121,8 +163,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33fb5649c57f5b98",
+  "active": "5485bbb40ae2b26d",
   "lastOpenFiles": [
+    "proxmox/Agent.md",
+    "proxmox/Machine for remote work.md",
+    "proxmox",
     "GoogleCheatSheet.pdf",
     "Notes for Obsidian.md",
     "Google Dorks.md",
@@ -138,7 +183,6 @@
     "Linux/Network Boot PI Zero.pdf",
     "Hacking/Kali/Pi Zero",
     "Hacking/Kali/Apt Non-Free Firmware Error..md",
-    "Hacking/Kali",
     "Linux/xRDP.md",
     "Linux/Ubuntu Netplan Setup.md",
     "vmware/Speed Issues.md",
@@ -148,7 +192,6 @@
     "vmware/No Upstream Provider.md",
     "vmware/NTP Server List.md",
     "vmware/Cut and Past in Remote Console.md",
-    "vmware",
     "Windows/VM for Malware Analyses.md",
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
@@ -167,7 +210,6 @@
     "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
     "Linux/Linux Commands for Hardware Info.jpg",
     "Linux/Linux lsof Command Examples.jpg",
-    "Linux/Linux File System.jpg",
-    "Hacking/Cyber Security Ecosystem.md"
+    "Linux/Linux File System.jpg"
   ]
 }

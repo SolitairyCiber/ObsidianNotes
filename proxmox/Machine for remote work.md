@@ -1,0 +1,1 @@
+Install Linux in VM. I am using Mint for this.
