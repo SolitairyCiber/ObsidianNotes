@@ -6,14 +6,20 @@ openvpn profile-xxx.ovpn
 ```
 
 ## Install requirements:
+### SSH:
+```
+apt install ssh
+systemctl enable ssh
+```
 
-RDP client:
+### RDP client:
 ```
 apt install remmina
 ```
 
-Keepass:
+### Keepass:
 ```
 apt install keepass2
 ```
 
+### Powershell:
