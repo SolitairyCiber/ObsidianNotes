@@ -23,3 +23,21 @@ apt install keepass2
 ```
 
 ### Powershell:
+Prerequisites: 
+```
+apt install -y apt-transport-https ca-certificates curl software-properties-common
+```
+Download pgp key:
+```
+wget -q -O- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor | sudo tee /usr/share/keyrings/powershell.gpg > /dev/null
+```
+Add repository:
+```
+add-apt-repository "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/powershell.gpg] https://packages.microsoft.com/repos/microsoft-ubuntu-$(lsb_release -cs)-prod $(lsb_release -cs) main"
+```
+Update:
+```
+apt update
+```
+
+
