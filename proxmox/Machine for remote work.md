@@ -27,17 +27,13 @@ Prerequisites:
 ```
 apt install -y apt-transport-https ca-certificates curl software-properties-common
 ```
-Download pgp key:
+Download powershell:
 ```
-wget -q -O- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor | sudo tee /usr/share/keyrings/powershell.gpg > /dev/null
+wget https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/powershell_7.5.2-1.deb_amd64.deb
 ```
-Add repository:
+Install:
 ```
-add-apt-repository "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/powershell.gpg] https://packages.microsoft.com/repos/microsoft-ubuntu-$(lsb_release -cs)-prod $(lsb_release -cs) main"
-```
-Update:
-```
-apt update
+dpkg -i powershell_7.5.2-1.deb_amd64.deb
 ```
 
 
