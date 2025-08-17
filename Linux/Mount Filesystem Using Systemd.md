@@ -95,7 +95,10 @@ TimeoutIdleSec=10
 WantedBy=multi-user.target
 ```
 
-Now lets check the status.
+Now lets check the status, start it, and then enable it on reboot.  
 ```
-systemctl status mnt-
+systemctl status mnt-disk_2.mount
+systemctl start mnt-disk_2.mount
+systemctl enable mnt-disk_2.mount
 ```
+
