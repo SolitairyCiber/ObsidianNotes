@@ -95,3 +95,7 @@ TimeoutIdleSec=10
 WantedBy=multi-user.target
 ```
 
+Now lets check the status.
+```
+systemctl status mnt-
+```
