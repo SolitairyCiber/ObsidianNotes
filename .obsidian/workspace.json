@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaf2c5b3f119abd3",
+            "id": "b699d5521b7458c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mount Filesystem Using Systemd.md",
+                "file": "Linux/Mount Filesystem Using Systemd.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mount Filesystem Using Systemd.md",
+                "file": "Linux/Mount Filesystem Using Systemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +122,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eaf2c5b3f119abd3",
+  "active": "b699d5521b7458c6",
   "lastOpenFiles": [
+    "Linux/Linux Commands for Hardware Info.jpg",
+    "conflict-files-obsidian-git.md",
+    "Linux/Mount Filesystem Using Systemd.md",
+    "Windows/Powershell/Uninstall from Powershell.md",
+    "Windows/Corrupt Account Fix.md",
     "proxmox/Machine for remote work.md",
-    "Mount Filesystem Using Systemd.md",
     "Notes for Obsidian.md",
     "Google Dorks.md",
     "proxmox/Agent.md",
@@ -159,15 +163,10 @@
     "Hacking/Search Engines for Pentesters.jpg",
     "Hacking/RID Hijacking.md",
     "Hacking/Obfuscated Powershell to Bypass Defender.md",
-    "Hacking/40 Tools.md",
     "Hacking/Cyber Security Ecosystem.jpg",
     "Hacking/Websites to Learn Hacking.jpg",
     "Hacking/Tools for Bug Hunting.jpg",
-    "Hacking/Kali/Snort Install Kali.md",
-    "Windows/OS Fixes/Non Booting System Possible Fixes.md",
-    "Windows/Auditing Event Logs.md",
     "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
-    "Linux/Linux Commands for Hardware Info.jpg",
     "Linux/Linux lsof Command Examples.jpg",
     "Linux/Linux File System.jpg"
   ]
