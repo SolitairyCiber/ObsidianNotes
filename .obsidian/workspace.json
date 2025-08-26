@@ -139,6 +139,7 @@
   },
   "active": "e327e68113304e2a",
   "lastOpenFiles": [
+    "Linux/Mount Filesystem Using Systemd.md",
     "Windows/Convert To a Local Account.md",
     "Windows/Microsoft Account Bypass.md",
     "Windows/Disable MS Account Nag Screens..md",
@@ -174,7 +175,6 @@
     "vmware/Offline Bundle Update Version 7.md",
     "vmware/Misc. Command Line.md",
     "vmware/ISCSI VMware Notes.md",
-    "vmware/NTP Server List.md",
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
     "Hacking/Search Engines for Pentesters.jpg",
