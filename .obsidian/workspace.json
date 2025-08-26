@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "007b8798f4ffefaf",
+            "id": "cf4122faf1738f02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Get Bit locker Recovery Key..md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Get Bit locker Recovery Key."
+            }
+          },
+          {
+            "id": "e327e68113304e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Disable MS Account Nag Screens..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disable MS Account Nag Screens."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Windows/Disable MS Account Nag Screens..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Disable MS Account Nag Screens."
             }
           }
         ]
@@ -117,8 +137,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "007b8798f4ffefaf",
+  "active": "e327e68113304e2a",
   "lastOpenFiles": [
+    "Windows/Convert To a Local Account.md",
+    "Windows/Microsoft Account Bypass.md",
+    "Windows/Disable MS Account Nag Screens..md",
+    "Windows/Get Bit locker Recovery Key..md",
+    "M365/Client Side Rules.md",
+    "M365/Forwarding.md",
+    "M365/Connection.md",
+    "vmware/No Upstream Provider.md",
+    "M365/Mailbox Sharing.md",
+    "M365/List Users.md",
+    "M365/Calendar.md",
     "proxmox/Machine for remote work.md",
     "Notes for Obsidian.md",
     "Google Dorks.md",
@@ -143,24 +174,13 @@
     "vmware/Offline Bundle Update Version 7.md",
     "vmware/Misc. Command Line.md",
     "vmware/ISCSI VMware Notes.md",
-    "vmware/No Upstream Provider.md",
     "vmware/NTP Server List.md",
-    "vmware/Cut and Past in Remote Console.md",
-    "Windows/VM for Malware Analyses.md",
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
-    "README.md",
     "Hacking/Search Engines for Pentesters.jpg",
-    "Hacking/RID Hijacking.md",
-    "Hacking/Obfuscated Powershell to Bypass Defender.md",
-    "Hacking/40 Tools.md",
     "Hacking/Cyber Security Ecosystem.jpg",
     "Hacking/Websites to Learn Hacking.jpg",
     "Hacking/Tools for Bug Hunting.jpg",
-    "Hacking/Kali/Snort Install Kali.md",
-    "Windows/OS Fixes/Non Booting System Possible Fixes.md",
-    "Windows/Auditing Event Logs.md",
-    "Windows/Untitled.md",
     "Hacking/351449183_6030145937094349_5301581371014737181_n.jpg",
     "Linux/Linux Commands for Hardware Info.jpg",
     "Linux/Linux lsof Command Examples.jpg",
