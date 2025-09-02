@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Disable MS Account Nag Screens."
             }
+          },
+          {
+            "id": "2473be93c8e7c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Disable MS Account Nag Screens..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disable MS Account Nag Screens."
+              "title": "Backlinks"
             }
           }
         ]
@@ -130,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -137,7 +149,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e327e68113304e2a",
+  "active": "2473be93c8e7c5f7",
   "lastOpenFiles": [
     "Linux/Mount Filesystem Using Systemd.md",
     "Windows/Convert To a Local Account.md",
