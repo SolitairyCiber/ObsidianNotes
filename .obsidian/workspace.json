@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Quick Machine Recovery.md",
+                "file": "Notes for Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Machine Recovery"
+              "title": "Notes for Obsidian"
             }
           }
         ]
@@ -127,8 +127,13 @@
   "active": "71964818aae64d34",
   "lastOpenFiles": [
     "Has a machine been hacked using osquery..md",
-    "conflict-files-obsidian-git.md",
+    "Google Dorks.md",
+    "Notes for Obsidian.md",
+    "Windows/Disable MS Account Nag Screens..md",
+    "Windows/Corrupt Account Fix.md",
+    "Windows/Convert To a Local Account.md",
     "Windows/Quick Machine Recovery.md",
+    "conflict-files-obsidian-git.md",
     "Windows/OS Fixes/Non Booting System Possible Fixes.md",
     "Windows/exfitool.md"
   ]
