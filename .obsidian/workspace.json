@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Has a machine been hacked using osquery..md",
+                "file": "Windows/Microsoft Account Bypass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Has a machine been hacked using osquery."
+              "title": "Microsoft Account Bypass"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Has a machine been hacked using osquery..md",
+                "file": "Windows/Microsoft Account Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Has a machine been hacked using osquery."
+              "title": "Backlinks for Microsoft Account Bypass"
             }
           }
         ]
@@ -125,8 +125,8 @@
   },
   "active": "d08aa32da1abf5ce",
   "lastOpenFiles": [
-    "README.md",
     "Has a machine been hacked using osquery..md",
+    "README.md",
     "Windows/Quick Machine Recovery.md",
     "conflict-files-obsidian-git.md",
     "Windows/Corrupt Account Fix.md",
