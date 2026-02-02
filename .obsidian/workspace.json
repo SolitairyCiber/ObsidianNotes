@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/x11vnc.md",
+                "file": "M365/Client Side Rules.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Client Side Rules"
+            }
+          },
+          {
+            "id": "722b5a69a7892d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Get Bit locker Recovery Key..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "x11vnc"
+              "title": "Get Bit locker Recovery Key."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/x11vnc.md",
+                "file": "Windows/Get Bit locker Recovery Key..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for x11vnc"
+              "title": "Backlinks for Get Bit locker Recovery Key."
             }
           }
         ]
@@ -123,19 +138,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00c957cfb72525b4",
+  "active": "722b5a69a7892d64",
   "lastOpenFiles": [
-    "Windows/Open Old Printers App.md",
-    "Linux/x11vnc.md",
-    "Windows/OS Fixes/Printers Not Deploying.md",
-    "M365/List Users.md",
+    "Windows/OS Fixes/Non Booting System Possible Fixes.md",
     "M365/Quarentine and Restricted Users.md",
+    "M365/Admin Rights.md",
+    "M365/Disable IMAP and POP.md",
     "M365/Client Side Rules.md",
-    "M365/Forwarding.md",
     "M365/Connection.md",
+    "M365/Forwarding.md",
+    "M365/List Users.md",
+    "M365/Login using Powershell 7.md",
+    "M365/SMTP.md",
     "M365/DKIM and DMARC configuration.md",
-    "Windows/Microsoft Account Bypass.md",
     "Windows/Broken Trust Relationship.md",
+    "Linux/x11vnc.md",
+    "Windows/Open Old Printers App.md",
+    "Windows/OS Fixes/Printers Not Deploying.md",
+    "Windows/Microsoft Account Bypass.md",
     "conflict-files-obsidian-git.md",
     "Has a machine been hacked using osquery..md",
     "README.md",
@@ -147,13 +167,8 @@
     "Linux/Linux Commands for Hardware Info.jpg",
     "Windows/Powershell/Uninstall from Powershell.md",
     "proxmox/Machine for remote work.md",
-    "Notes for Obsidian.md",
-    "Google Dorks.md",
-    "proxmox/Agent.md",
     "proxmox",
     "GoogleCheatSheet.pdf",
-    "Powershell/Bypass Restrictions in Script.md",
-    "Windows/exfitool.md",
     "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
     "Powershell",
     "Linux/Pi Based NAS.pdf",

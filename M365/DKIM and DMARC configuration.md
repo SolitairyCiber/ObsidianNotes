@@ -1,5 +1,5 @@
 ### DKIM
-In 365 go to admin then under Admin Centers choose Security
+https:\\security.microsoft.com
 Email and Collaboration
 Policies & Rules
 Threat Policies
