@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "Get Bit locker Recovery Key."
             }
+          },
+          {
+            "id": "efb18da8de300025",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "4b79c7a493ed446f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Script to check TOR Proxychains IP and Location.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Script to check TOR Proxychains IP and Location"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Get Bit locker Recovery Key..md",
+                "file": "Hacking/Script to check TOR Proxychains IP and Location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Get Bit locker Recovery Key."
+              "title": "Backlinks for Script to check TOR Proxychains IP and Location"
             }
           }
         ]
@@ -138,8 +164,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "722b5a69a7892d64",
+  "active": "00c957cfb72525b4",
   "lastOpenFiles": [
+    "Hacking/Script to check TOR Proxychains IP and Location.md",
     "Windows/OS Fixes/Non Booting System Possible Fixes.md",
     "M365/Quarentine and Restricted Users.md",
     "M365/Admin Rights.md",
@@ -166,7 +193,6 @@
     "Windows/Convert To a Local Account.md",
     "Linux/Linux Commands for Hardware Info.jpg",
     "Windows/Powershell/Uninstall from Powershell.md",
-    "proxmox/Machine for remote work.md",
     "proxmox",
     "GoogleCheatSheet.pdf",
     "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
