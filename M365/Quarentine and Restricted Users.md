@@ -18,3 +18,8 @@ Azure Users
 
 https://portal.azure.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers
 
+
+Admin
+
+https://admin.cloud.microsoft
+

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c345a4e503ea9a2d",
+        "id": "be3e716d8143e3e7",
         "type": "tabs",
         "children": [
           {
-            "id": "91dcc6b1a626bc00",
+            "id": "136319b9394967ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M365/Client Side Rules.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Client Side Rules"
-            }
-          },
-          {
-            "id": "722b5a69a7892d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/Get Bit locker Recovery Key..md",
+                "file": "Windows/Powershell/DNS dig like command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get Bit locker Recovery Key."
+              "title": "DNS dig like command"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Get Bit locker Recovery Key..md",
+                "file": "Windows/Powershell/DNS dig like command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Get Bit locker Recovery Key."
+              "title": "Backlinks for DNS dig like command"
             }
           }
         ]
@@ -138,35 +123,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "722b5a69a7892d64",
+  "active": "00c957cfb72525b4",
   "lastOpenFiles": [
-    "Windows/OS Fixes/Non Booting System Possible Fixes.md",
-    "M365/Quarentine and Restricted Users.md",
-    "M365/Admin Rights.md",
-    "M365/Disable IMAP and POP.md",
-    "M365/Client Side Rules.md",
+    "Windows/Broken Trust Relationship.md",
+    "Windows/Powershell/DNS dig like command.md",
     "M365/Connection.md",
+    "M365/Quarentine and Restricted Users.md",
+    "Windows/Get Bit locker Recovery Key..md",
+    "Windows/Open Old Printers App.md",
+    "Windows/Microsoft Account Bypass.md",
+    "Things to check in monthly maintenance..md",
+    "M365/DKIM and DMARC configuration.md",
+    "Windows/Expanding a drive when recovery partition is in the way..md",
+    "Windows/VM for Malware Analyses.md",
+    "M365/Client Side Rules.md",
+    "Windows/Corrupt Account Fix.md",
+    "Windows/WinRM Workstation Setup.md",
+    "Windows/Windows PowerShell Logging Cheat Sheet.pdf",
+    "Windows/exfitool.md",
+    "M365/Admin Rights.md",
+    "M365/Mailbox Sharing.md",
+    "vmware/Cut and Past in Remote Console.md",
+    "Windows/OS Fixes/Non Booting System Possible Fixes.md",
+    "M365/Disable IMAP and POP.md",
     "M365/Forwarding.md",
     "M365/List Users.md",
     "M365/Login using Powershell 7.md",
     "M365/SMTP.md",
-    "M365/DKIM and DMARC configuration.md",
-    "Windows/Broken Trust Relationship.md",
     "Linux/x11vnc.md",
-    "Windows/Open Old Printers App.md",
     "Windows/OS Fixes/Printers Not Deploying.md",
-    "Windows/Microsoft Account Bypass.md",
-    "conflict-files-obsidian-git.md",
-    "Has a machine been hacked using osquery..md",
-    "README.md",
-    "Windows/Quick Machine Recovery.md",
-    "Windows/Corrupt Account Fix.md",
-    "Linux/Mount Filesystem Using Systemd.md",
-    "Windows/Disable MS Account Nag Screens..md",
-    "Windows/Convert To a Local Account.md",
     "Linux/Linux Commands for Hardware Info.jpg",
-    "Windows/Powershell/Uninstall from Powershell.md",
-    "proxmox/Machine for remote work.md",
     "proxmox",
     "GoogleCheatSheet.pdf",
     "Hacking/Hashcat 2024 - Bruteforcing 3.3.pdf",
@@ -176,7 +162,6 @@
     "Linux/cron.pdf",
     "Linux/Running a Program at Boot.pdf",
     "Linux/Network Boot PI Zero.pdf",
-    "Hacking/Kali/Pi Zero",
     "Linux/Hacking Tools Cheat Sheet 2.jpg",
     "Linux/Hacking Tools Cheat Sheet 1.jpg",
     "Hacking/Search Engines for Pentesters.jpg",
