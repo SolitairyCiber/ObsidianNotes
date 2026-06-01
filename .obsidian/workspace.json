@@ -125,6 +125,7 @@
   },
   "active": "00c957cfb72525b4",
   "lastOpenFiles": [
+    "Hacking/Script to check TOR Proxychains IP and Location.md",
     "Windows/Broken Trust Relationship.md",
     "Windows/Powershell/DNS dig like command.md",
     "M365/Connection.md",
@@ -151,7 +152,6 @@
     "M365/Login using Powershell 7.md",
     "M365/SMTP.md",
     "Linux/x11vnc.md",
-    "Windows/OS Fixes/Printers Not Deploying.md",
     "Linux/Linux Commands for Hardware Info.jpg",
     "proxmox",
     "GoogleCheatSheet.pdf",
